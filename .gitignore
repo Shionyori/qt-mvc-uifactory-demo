@@ -5,7 +5,7 @@
 /out
 
 # vscode
-.vsocde
+.vscode
 
 # Ignore log files
 *.log
