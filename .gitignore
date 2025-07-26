@@ -1,0 +1,11 @@
+# .gitignore file for a project
+
+# build directory
+/build
+/out
+
+# vscode
+.vsocde
+
+# Ignore log files
+*.log
